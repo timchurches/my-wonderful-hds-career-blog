@@ -1,5 +1,5 @@
 ---
-title: "my-hds-career-blog"
+title: "Tim's Brilliant HDS Career Blog"
 listing:
   contents: posts
   sort: "date desc"
